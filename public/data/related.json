@@ -1,0 +1,187 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "cUBvrUrnQ6Lcc2aba6Cya0G1PWU",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 140,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CYhSD7PgcwDqpCqhDbw_epvpCpM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xgJpHBD-ITg"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-25T08:28:27Z",
+        "channelId": "UCYtjW8dGkaeHwrMiB01Xa_Q",
+        "title": "참을 만큼 참다가 입 터진 비니… 그러다 줘 터질라 | 조밥 곽선생 EP.3",
+        "description": "원빈이가 움츠렸던 건 \n추진력을 얻기 위함이었다! 🤜🫨\n\n《알리익스프레스 x 조밥곽선생》 더 많은 상품은 여기로 👉🏻 https://bit.ly/3oEZwVf\n*알리익스프레스 프로모션 관련 내용은 변동 될 수 있습니다*\n\nJB 연애 토론회 《조밥 곽선생》\n매주 화요일 오후 6시 스튜디오 와플 공개!\n👉 https://www.youtube.com/c/스튜디오와플STUDIOWAFFLE\n\n🧇구독 & 좋아요 & 알림설정 필수🧇\n\n#조밥곽선생 #곽튜브 #박원빈 #이희수 #논리왕전기 #연애 #토론",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xgJpHBD-ITg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xgJpHBD-ITg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xgJpHBD-ITg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xgJpHBD-ITg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xgJpHBD-ITg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스튜디오 와플 - STUDIO WAFFLE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-25T08:28:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fZqa_AZiyKz2a4WgO65KnQ1IHd0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EwRYMdFxBDQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-11T07:33:31Z",
+        "channelId": "UCYtjW8dGkaeHwrMiB01Xa_Q",
+        "title": "이들이 할 수 있는 연애라고는 ‘상상 연애‘뿐입니다. | 조밥 곽선생 EP.1",
+        "description": "자세히 보아야 예쁘다.\n오래 보아야 사랑스럽다.\nJB들도.. 그랬으면 좋겠다…😿\n\nJB 연애 토론회 《조밥 곽선생》\n매주 화요일 오후 6시 스튜디오 와플 공개!\n👉 https://www.youtube.com/c/스튜디오와플STUDIOWAFFLE\n\n🧇구독 & 좋아요 & 알림설정 필수🧇\n\n#조밥곽선생 #곽튜브 #박원빈 #이희수 #논리왕전기 #연애 #토론",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EwRYMdFxBDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EwRYMdFxBDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EwRYMdFxBDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EwRYMdFxBDQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EwRYMdFxBDQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스튜디오 와플 - STUDIO WAFFLE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-11T07:33:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hMACCNjqJx7w6iXgqUagDHa7ts4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QnKLXUHjIHo"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-20T07:05:43Z",
+        "channelId": "UCRmm8763aqO0CoeLCA2jNSA",
+        "title": "[EN] 수지 찾으러 오는 학과 [숭실대 건축학부] | 전과자 ep.20",
+        "description": "\"수지 있어요?\"\n음대생 수지 찾는 질문에 영원히 시달리는 건축학부 👀\n\n시멘트 가루 날리는 공사판에서 수업 듣고\n교수님이 치킨 사주는 설계 수업까지🍗\n\n드디어 재능 찾은 전과자\n교수님의 대학원 제의 썰 푼다🤭\n\n공감과 정보와 추억을 모두 담은\n캠퍼스 문화 부흥 프로젝트 \n\n📚 매일 전과하는 남자 [전과자] \n📚 매주 목요일 오후 6시\n\n#ootbSTUDIO #이창섭 #전과자\n\n\n대한민국 남자 피부톤을 연구해 설계된\n아이디얼 포 맨 베러톤 커버 쿠션\n\n4월 런칭 기념 온라인 추가 할인\n할인가 19,300원 (최대 33%▼, ~4/30)\n👉 https://bit.ly/40kl0Uh\n\n* 온라인 추가할인은 올리브영 온라인몰에서만 진행되며, (어플/웹) 로그인 후 구매 가능합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QnKLXUHjIHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QnKLXUHjIHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QnKLXUHjIHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QnKLXUHjIHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QnKLXUHjIHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ootb STUDIO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-20T07:05:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "szqb49gI0yWuY-n-jSt_9nYGJgI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "osZ4SoN5Yew"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-10T00:02:17Z",
+        "channelId": "UC3T-ItUjgJdIpmZ3zl1sMMA",
+        "title": "손흥민 보러 런던가는 여성의 토트넘 훈련장 방문기 / 손흥민은?... #손흥민 #토트넘훈련장",
+        "description": "영상 녹화해도 되고 가져가셔도 됩니다. 출처 워터마크만 크롭하지 말아주세요.\nYou guys can record this video, scrap it, or regram it as you want. But please DO NOT crop or cover the source in the video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/osZ4SoN5Yew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/osZ4SoN5Yew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/osZ4SoN5Yew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/osZ4SoN5Yew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/osZ4SoN5Yew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소햐 Sohya",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-10T00:02:17Z"
+      }
+    }
+  ]
+}
