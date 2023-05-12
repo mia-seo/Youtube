@@ -30,7 +30,6 @@ export default class Youtube {
           part: "snippet",
           chart: "mostPopular",
           maxResults: 25,
-          regionCode: "KR",
         },
       })
       .then((res) => res.data.items);
@@ -42,7 +41,6 @@ export default class Youtube {
         params: {
           part: "snippet",
           id: channelId,
-          regionCode: "KR",
         },
       })
       .then((res) => res.data.items[0].snippet.thumbnails.default.url);
@@ -56,7 +54,6 @@ export default class Youtube {
           maxResults: 25,
           relatedToVideoId: videoId,
           type: "video",
-          regionCode: "KR",
         },
       })
       .then((res) =>
@@ -72,7 +69,6 @@ export default class Youtube {
           maxResults: 25,
           q: keyword,
           type: "video",
-          regionCode: "KR",
         },
       })
       .then((res) =>
@@ -87,7 +83,6 @@ export default class Youtube {
           part: "snippet",
           q: keyword,
           type: "channel",
-          regionCode: "KR",
         },
       })
       .then((res) => res.data.items[0].snippet);
