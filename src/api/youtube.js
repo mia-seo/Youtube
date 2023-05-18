@@ -29,6 +29,7 @@ export default class Youtube {
         params: {
           part: "snippet",
           chart: "mostPopular",
+          regionCode: "kr",
           maxResults: 25,
         },
       })
