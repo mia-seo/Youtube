@@ -17,7 +17,7 @@ export default function Videos() {
   if (isLoading) return <h1>Loading...💫</h1>;
   if (error) return <p>{error}</p>;
   return (
-    <main className="grid gap-5 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2">
+    <main className="grid grid-cols-2 gap-5 md:grid-cols-3 lg:grid-cols-4">
       {videos &&
         videos.map((video) => (
           <Video key={video.id} id={video.id} video={video.snippet} />
